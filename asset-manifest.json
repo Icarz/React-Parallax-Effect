@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Parallax-Effect/static/css/main.a15902f3.css",
+    "main.js": "/React-Parallax-Effect/static/js/main.b3eacf5b.js",
+    "static/media/city.jpg": "/React-Parallax-Effect/static/media/city.58c160eb2c4779de7e44.jpg",
+    "static/media/woman.jpg": "/React-Parallax-Effect/static/media/woman.d6a60eea7a5f7fadd8a0.jpg",
+    "static/media/fly.jpg": "/React-Parallax-Effect/static/media/fly.9494ddd8d35d2e1a7687.jpg",
+    "index.html": "/React-Parallax-Effect/index.html",
+    "main.a15902f3.css.map": "/React-Parallax-Effect/static/css/main.a15902f3.css.map",
+    "main.b3eacf5b.js.map": "/React-Parallax-Effect/static/js/main.b3eacf5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15902f3.css",
+    "static/js/main.b3eacf5b.js"
+  ]
+}
